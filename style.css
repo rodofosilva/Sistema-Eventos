@@ -12,7 +12,7 @@
     color: #e5e7eb;
   }
   
-  /* CENTRALIZAÇÃO PADRÃO */
+  /* CENTRALIZAÇÃO */
   .header,
   .banner,
   .main,
@@ -105,12 +105,12 @@
     gap: 20px;
   }
   
-  /* CARDS (CORRIGIDO PRA FICAR LADO A LADO) */
+  /* CARDS  */
   .card {
     background-color: #ffffff;
     color: #333;
   
-    width: 23%;          /* 4 por linha */
+    width: 23%;          
     min-width: 200px;
   
     padding: 15px;
